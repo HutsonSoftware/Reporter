@@ -1,0 +1,10 @@
+﻿<Settings>
+  <LocalReportFolder>C:\Program Files\Common Files\Hutson Software\Reporter\Reports</LocalReportFolder>
+  <ServerReportFolder>\\VillaServer\C$\Program Files\Common Files\Hutson Software\Reporter\Reports\</ServerReportFolder>
+  <DsnName>localhost_MySqlx32</DsnName>
+  <ServerName>localhost</ServerName>
+  <DatabaseName>pemiscotreal</DatabaseName>
+  <IntegratedSecurity>0</IntegratedSecurity>
+  <UserID>root</UserID>
+  <Password>root</Password>
+</Settings>
